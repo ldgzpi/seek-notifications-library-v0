@@ -1,0 +1,11 @@
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/EmailChannelTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/EmailDispatcherTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/EmailNotificationTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/FirebaseProviderTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/NotificationSenderTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/PushChannelTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/PushNotificationTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/SendGridProviderTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/SmsChannelTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/SmsNotificationTest.java
+/Users/pipa/Documents/seek-notifications-library/notifications/src/test/java/com/seek/TwilioProviderTest.java
